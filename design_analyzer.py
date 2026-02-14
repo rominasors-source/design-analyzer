@@ -300,5 +300,3 @@ if 'analysis' in st.session_state:
             "تحلیل.json"
         )
 
-st.write("---")
-st.markdown('<div style="text-align: center; color: #666; padding: 1rem;">ساخته شده با هوش مصنوعی ❤️</div>', unsafe_allow_html=True)
